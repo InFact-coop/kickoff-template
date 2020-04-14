@@ -1,0 +1,15 @@
+{
+  "name": "infact-kickoff-deck",
+  "version": "1.0.0",
+  "description": "\"InFact Kick-Off meeting - Presentation Deck Template\"",
+  "main": "index.js",
+  "author": "lucymk <lucy.m.king92@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  },
+  "dependencies": {
+    "mdx-deck": "^4.1.1",
+    "styled-components": "^5.1.0"
+  }
+}
